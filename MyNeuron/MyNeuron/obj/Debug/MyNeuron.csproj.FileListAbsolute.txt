@@ -1,0 +1,9 @@
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\bin\Debug\MyNeuron.exe.config
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\bin\Debug\MyNeuron.exe
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\bin\Debug\MyNeuron.pdb
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\obj\Debug\MyNeuron.csprojResolveAssemblyReference.cache
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\obj\Debug\MyNeuron.Form1.resources
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\obj\Debug\MyNeuron.Properties.Resources.resources
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\obj\Debug\MyNeuron.csproj.GenerateResource.Cache
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\obj\Debug\MyNeuron.exe
+c:\users\ay-_-\documents\visual studio 2015\Projects\MyNeuron\MyNeuron\obj\Debug\MyNeuron.pdb
